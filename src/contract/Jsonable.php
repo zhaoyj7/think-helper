@@ -1,6 +1,6 @@
 <?php
 
-namespace zhaoyj_helper\contract;
+namespace helper\contract;
 
 interface Jsonable
 {
