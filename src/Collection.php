@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 declare (strict_types = 1);
 
-namespace zhaoyj_helper;
+namespace helper;
 
 use ArrayAccess;
 use ArrayIterator;
