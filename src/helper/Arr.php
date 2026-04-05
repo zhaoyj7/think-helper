@@ -9,7 +9,7 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-namespace helper\contract;
+namespace helper;
 
 use ArrayAccess;
 use InvalidArgumentException;
