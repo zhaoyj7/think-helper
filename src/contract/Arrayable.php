@@ -1,6 +1,6 @@
 <?php
 
-namespace think\contract;
+namespace zhaoyj_helper\contract;
 
 interface Arrayable
 {
