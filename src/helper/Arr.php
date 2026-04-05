@@ -9,7 +9,7 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-namespace think\helper;
+namespace zhaoyj_helper;
 
 use ArrayAccess;
 use InvalidArgumentException;
