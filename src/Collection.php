@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 declare (strict_types = 1);
 
-namespace think;
+namespace zhaoyj_helper;
 
 use ArrayAccess;
 use ArrayIterator;
