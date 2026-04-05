@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
-namespace zhaoyj_helper;
+namespace helper;
 
 use Closure;
 use think\exception\FuncNotFoundException;
