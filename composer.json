@@ -4,8 +4,8 @@
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "yunwuxin",
-            "email": "448901948@qq.com"
+            "name": "zhaoyj",
+            "email": "admin@silveridc.cn"
         }
     ],
     "require": {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "think\\": "src"
+            "zhaoyj_helper\\": "src"
         },
         "files": [
             "src/helper.php"
